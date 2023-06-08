@@ -7,7 +7,7 @@
     "discordID": "555950071502602240",
     "github": "progamer63"
   },
-  "version": "0.6.3",
+  "version": "0.6.3a",
   "updater": {
     "type": "github",
     "id": "progamer63/hopefully-HSL-fix"
