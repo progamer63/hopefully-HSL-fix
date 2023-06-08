@@ -1,16 +1,16 @@
 {
-  "id": "dev.replugged.ThemeTemplate",
-  "name": "Theme Template",
-  "description": "A theme template",
+  "id": "gay.prog.HorizontalServerList-FIX",
+  "name": "HorizontalServerList FIX",
+  "description": "i fixed it maybe",
   "author": {
-    "name": "replugged",
-    "discordID": "1000992611840049192",
-    "github": "replugged-org"
+    "name": "progamer63",
+    "discordID": "555950071502602240",
+    "github": "progamer63"
   },
-  "version": "1.0.0",
+  "version": "0.6.3",
   "updater": {
     "type": "github",
-    "id": "replugged-org/theme-template"
+    "id": "progamer63/hopefully-HSL-fix"
   },
   "license": "MIT",
   "type": "replugged-theme",
