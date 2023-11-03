@@ -1,18 +1,1 @@
-{
-  "id": "gay.prog.HorizontalServerList-FIX",
-  "name": "HorizontalServerList FIX",
-  "description": "i fixed it maybe",
-  "author": {
-    "name": "progamer63",
-    "discordID": "555950071502602240",
-    "github": "progamer63"
-  },
-  "version": "0.6.3a",
-  "updater": {
-    "type": "github",
-    "id": "progamer63/hopefully-HSL-fix"
-  },
-  "license": "MIT",
-  "type": "replugged-theme",
-  "main": "src/main.css"
-}
+{"id":"gay.prog.HorizontalServerList-FIX","name":"HorizontalServerList FIX","description":"i fixed it maybe","author":{"name":"progamer63","discordID":"555950071502602240","github":"progamer63"},"version":"0.6.3b","updater":{"type":"github","id":"progamer63/hopefully-HSL-fix"},"license":"MIT","type":"replugged-theme","main":"main.css"}
